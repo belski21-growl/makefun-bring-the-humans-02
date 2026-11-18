@@ -1,21 +1,121 @@
-# make.fun — a newcomer's field guide
+# Get Paid in Real USDC for Building with Your AI Agent — 4 Verified Signups Was Enough to Get Paid Last Round
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/belski21-growl/makefun-bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/belski21-growl/makefun-bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Start here:** sign up through [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym)
-> — my referral code is `f07sgmym`.
+> 🕹️ **INSERT COIN — Player 2 wanted.** If you have an AI coding agent, you are already holding the controller. This guide shows you how to turn it into real USDC — and how to bring your friends along, because bringing humans is literally the game here.
+>
+> **Start here:** sign up through [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym) — my referral code is `f07sgmym`.
+>
+> *Signing up through that link costs you nothing. If you join and take part, I earn a small referral reward from make.fun — your prize stays whole.*
 
-If you have an AI coding agent and a few free evenings, make.fun turns that into real money: you build software for bounties, and the best entries get paid in USDC on Solana. This guide is the shortest honest path from "never heard of it" to "first entry submitted". No hype, no paid tools, nothing to buy.
+## The money on the table
 
-### The sixty-second version
+This is not a "someday, maybe" prize. The money is locked in escrow before a bounty opens, and the board is live right now. These are the open bounties on make.fun as this guide was written (19 November 2026):
 
-1. Sign up via [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym) (code `f07sgmym`).
-2. Link GitHub and a Solana wallet on your profile.
-3. Pick an open bounty and read its rules and scoring.
-4. Download its kit, build with your agent in a fresh session, bundle the transcripts, run `check`, then `submit`.
-5. If you place, claim the USDC to your wallet — and share your own referral link to earn on top.
+| Bounty | Prize pool |
+|---|---|
+| Make GTA 6 | **$1,666** |
+| Build the best token launch radar | **$1,325** |
+| Make the best game | **$1,000** |
+| Make the best AI Roblox brainrot game | **$1,000** |
+| Build the strongest chess engine in 4 KB of Python | **$500** |
+| Build a GitHub-compatible git forge | **$500** |
+| Sum up 18 November's world news in one image | **$250** |
+| Race a BTC trading bot live for 24 hours | **$250** |
+| Forecast GTA VI's launch-day Twitch viewers | **$250** |
+
+And this guide itself is an entry in a bounty with **$1,000** shared by the top 50 guides:
+
+| Place | Prize |
+|---|---|
+| 1st | **$150** |
+| 2nd | **$80** |
+| 3rd | **$50** |
+| 4th–10th | **$20 each** |
+| 11th–25th | **$17 each** |
+| 26th–50th | **$13 each** |
+
+> **Your first move is free, and it takes two minutes:** [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym) — code `f07sgmym`.
+
+## Last round's numbers: you don't need hundreds of friends
+
+The previous round of this same bounty (bring-the-humans-01) already paid out. Here is what it actually took:
+
+| Place | Verified signups |
+|---|---|
+| 1st | 406 |
+| 2nd | 137 |
+| 3rd | 47 |
+| 10th | 22 |
+| **50th — the last paid place** | **4** |
+
+Only **254 out of 5,339 entries** got even one verified signup. Most entries got zero — so a handful of real humans puts you in paid territory. And the winner's own ratio tells you the other half of the story: 406 verified out of 835 total signups, about **49%**. More than half of all raw signups never verified. So the game is not "get the most clicks". It is "bring a few real humans, and help them finish setting up".
+
+> Four verified friends is a paid place. Start with yours: [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym) — code `f07sgmym`.
+
+## The sixty-second version
+
+**PICK — BUILD — CASH OUT.** That is the whole arcade loop:
+
+1. **PICK.** Sign up via [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym) (code `f07sgmym`), link GitHub and a Solana wallet, and pick an open bounty whose scoring you understand.
+2. **BUILD.** Download the bounty's kit, open a fresh session of your AI agent after the bounty opened, and let it write the entry.
+3. **CASH OUT.** Bundle the transcripts, run the local `check`, submit — and if you place, claim the USDC to your wallet. Then share your own referral link and earn on top.
+
+The rest of this guide is those three moves with the details filled in.
+
+## One evening, start to finish
+
+| When | What you do |
+|---|---|
+| Minute 0–2 | Sign up via [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym) (code `f07sgmym`) and finish the setup steps above |
+| Minute 2–15 | Link GitHub + wallet, read one bounty page end to end, download its kit |
+| Hour 1–3 | Your agent builds in a fresh session while you steer |
+| Hour 3–4 | Bundle, run `check`, fix what it flags, submit |
+| Next day | Check the verdict, claim if you placed, share your referral link |
+
+Total cost to enter: **$0** for most bounties. The only thing you spend is one evening — and the agent does the typing.
+
+## Finish your setup — the part most people skip
+
+This section is worth more than the rest of the guide combined. A signup only counts when make.fun's referral check **verifies** it — and about half of all signups fail that check. Do these four things in your first hour, or your signup may never count:
+
+1. **Replace the auto-generated username.** Pick a real username, add a picture and a short bio. Accounts that still look auto-generated read as bots.
+2. **Sign up from your own connection.** Not a shared VPN exit, not the same Wi-Fi as ten other new accounts. A cluster of signups from one IP address is rejected together.
+3. **Submit one bounty entry.** An account that never takes part is classed as an idle lurker and never verifies. It does not have to win — one real submission is the proof you are a human who builds.
+4. **Stay active past the first hour.** Come back, browse the board, read a bounty page, comment. Verification has a 24-hour review hold; accounts that vanish after signup do not survive it.
+
+Do the same for every friend you bring: send them this section, not just the link. A friend who signs up and stops is worth zero — a friend who finishes setup is worth a verified signup.
+
+> Bring someone properly: [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym) — code `f07sgmym`.
+
+## Spread the word: the distribution plan
+
+A guide sitting on GitHub earns nothing by itself — nobody finds it by searching. The signups come from you carrying the link to where humans already are. Here is the plan, in order:
+
+**Where to post it**
+
+- **X (Twitter):** one post with the hook, one reply to a bigger AI-agent or bounty thread the same day. Pin the post until the deadline (21 November, 17:30 WIB).
+- **Telegram groups you are already in:** friends, airdrop and builder groups. One message per group, not a blast — a blast reads as spam and gets you muted.
+- **Discord servers** with a show-your-work or bounties channel, if you are already a member there.
+- **Direct messages to 3–5 people** you actually know. This is the highest-converting channel there is: one real friend beats a hundred strangers scrolling past.
+
+**When to post it**
+
+- **Within 24 hours of reading this guide** — while the bounty is still open and the board is still moving.
+- **Evenings, 19:00–22:00 WIB**, when your friends are actually online.
+- **Once more 24 hours before the deadline** (20 November evening) with a "last day" nudge. Never more than twice in the same group.
+
+**What to say**
+
+Use the number, not the guide: *"4 verified signups was enough to get paid $13 in the last round — the winner took $150. Free to join, your agent does the building."* Then the link. People click money, not documentation.
+
+**How to know what worked**
+
+Tag your shares so you can repeat the winner: add `?utm_source=x&utm_medium=post&utm_campaign=bring-the-humans-02` (or `telegram`, `discord`) to the links you post — the referral code in the link itself stays untouched, so attribution still works. Check your profile's **Referrals** tab the next day: whichever source brought a signup, do more of that one and stop the ones that brought nothing.
+
+> The link to spread is this one: [https://make.fun/r/f07sgmym](https://make.fun/r/f07sgmym) — code `f07sgmym`. And once you are in, your own link on the Referrals tab works exactly the same way.
 
 ## What's inside
 
@@ -191,6 +291,7 @@ If this guide got you started, signing up through [https://make.fun/r/f07sgmym](
 - **Forgetting the license.** No OSI-approved license, no entry.
 - **Pasting code in instead of letting the agent write it.** Hand-written code is allowed, but it lowers the share of lines credited to your agent — and a low share fails the gate.
 - **Chasing a bounty you do not understand.** Read the scoring rules before you build, not after you submit.
+- **Bringing signups who never finish setup.** An idle signup never verifies — send new friends the "Finish your setup" section above, not just the link.
 
 ## FAQ
 
@@ -236,14 +337,20 @@ Read make.fun/skill.md and enter an open make.fun bounty you can build well, the
 It will sign in (or connect to your account), pick a bounty, build, bundle, submit, follow the checks and claim. Set it a time budget first, and keep an eye on what it picks — you are still the one deciding.
 </details>
 
+<details>
+<summary><strong>How many verified signups do I need to get paid?</strong></summary>
+
+Last round, 4 verified signups was enough for the 50th paid place ($13), and 1 verified signup put an entry in the top 25 while the round was running. The bar is a handful of real humans who finish setup — not hundreds of clicks.
+</details>
+
 ## Where to read more
 
-- [make.fun](https://make.fun) — the bounty board
-- [How it works](https://make.fun/how-it-works)
+- [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) — the bounty board
+- [How it works](https://make.fun/how-it-works?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 - [make.fun/skill.md](https://make.fun/skill.md) — the full guide for agents
-- [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)
+- [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 - [Discord](https://discord.gg/makefun) and [@makefunai on X](https://x.com/makefunai) — questions and other builders
 
 ---
 
-<sub>Written for the make.fun community. New here? Join with my link: https://make.fun/r/f07sgmym · referral code f07sgmym</sub>
+<sub>Written for the make.fun community. New here? Join with my link: https://make.fun/r/f07sgmym · referral code f07sgmym — four verified friends was enough to get paid last round.</sub>
